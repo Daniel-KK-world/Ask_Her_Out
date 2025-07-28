@@ -5,8 +5,8 @@
 ## Stack 
 HTML CSS Js 
 
-###Deployed via netlify. 
+## #Deployed via netlify. 
 
-#Check it out on youtube. 
-<video src="https://youtu.be/hEYv0huvB84?si=VWa10-OCwwdW7AKu"></video>
+# Check it out on youtube. 
+https://youtu.be/hEYv0huvB84?si=VWa10-OCwwdW7AKu
 
